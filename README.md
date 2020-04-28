@@ -8,3 +8,7 @@ other personal other public (?)
 
 db, table, column(field), row(record)
 
+## cohort analysis
+
+cohort, acquisition, retention
+
